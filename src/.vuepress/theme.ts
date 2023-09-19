@@ -2,18 +2,18 @@ import { hopeTheme } from 'vuepress-theme-hope';
 import { enNavbar, zhNavbar } from './navbar/index.js';
 import { enSidebar, zhSidebar } from './sidebar/index.js';
 
-
 export default hopeTheme({
 	hostname: '/blog',
 
 	iconAssets: 'iconfont',
 
 	logo: '/avatar.jpg',
+	favicon: '/favicon.svg',
 
 	repo: 'Stargazer777777/blog',
 
 	docsDir: 'src',
-  
+
 	blog: {
 		name: 'Stargazer',
 		avatar: '/avatar.jpg',
