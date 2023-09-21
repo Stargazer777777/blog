@@ -8,7 +8,7 @@ export default hopeTheme({
 	iconAssets: 'iconfont',
 
 	logo: '/avatar.jpg',
-	favicon: '/favicon.svg',
+	favicon: '/favicon.ico',
 
 	repo: 'Stargazer777777/blog',
 
